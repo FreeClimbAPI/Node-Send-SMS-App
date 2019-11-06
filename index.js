@@ -4,7 +4,7 @@ const app = express()
 app.use(bodyParser.json())
 const freeclimbSDK = require('@freeclimb/sdk')
 
-const port = 3000
+const port = 80
 const host = process.env.HOST
 const accountId = process.env.accountId
 const authToken = process.env.authToken
