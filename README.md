@@ -8,16 +8,7 @@ This project serves as a guide to help you build an application with FreeClimb. 
 
 ## Setting up your new app within your FreeClimb account
 
-1. After logging into your FreeClimb account, we will [Get a FreeClimb Phone Number](https://www.freeclimb.com/dashboard/portal/numbers/buy). Users will be calling this number to access your app.
-2. Next, create a new app using the [Create New App form] setting the alias to `Send SMS Demo`(https://www.freeclimb.com/dashboard/portal/applications/new).
-
-   When a phone call arrives to your FreeClimb phone number, FreeClimb will issue an HTTP Request to your application at a given url.
-
-   This tutorial will use the `Voice URL` (with endpoint `/incomingCall`) and `Status Callback URL` (with endpoint `/status`).
-   ![App Creation Form](./images/CreateAppForm.png)
-
-3. Next, link your FreeClimb number to your FreeClimb app. Go to the [My Numbers page](https://www.freeclimb.com/dashboard/portal/numbers) and click on the number you purchased in Step 1. Set the app to your new Send SMS App.
-   ![Number Config](./images/NumberConfig.png)
+To get started using a FreeClimb account, follow the instructions [here](https://docs.freeclimb.com/docs/getting-started-with-freeclimb).
 
 ## Setting up the Send SMS App locally
 
