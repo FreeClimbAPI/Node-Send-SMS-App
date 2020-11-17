@@ -37,3 +37,7 @@ To get started using a FreeClimb account, follow the instructions [here](https:/
    ```
 
 2. Call your FreeClimb number and follow the prompts!
+
+##Getting Help
+
+If you are experiencing difficulties, [contact support](https://freeclimb.com/support).
