@@ -7,8 +7,8 @@ const freeclimbSDK = require('@freeclimb/sdk')
 const port = 80
 const host = process.env.HOST
 const accountId = process.env.accountId
-const authToken = process.env.authToken
-const freeclimb = freeclimbSDK(accountId, authToken)
+const apiKey = process.env.apiKey
+const freeclimb = freeclimbSDK(accountId, apiKey)
 
 const _MESSAGE_ = 'This is a message sent by FreeClimb!'
 
