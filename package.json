@@ -1,6 +1,7 @@
 {
   "name": "node-send-sms-demo-app",
   "version": "1.0.0",
+  "license: "MIT",
   "description": "An demo app that lets users call a number, enter a phone number, and have that number recieve a text message",
   "author": "Francis San Filippo",
   "dependencies": {
